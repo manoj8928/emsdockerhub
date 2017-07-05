@@ -81,7 +81,7 @@ a:hover {color:#80A24A;}   /* mouse over link */
 <body>
 <div id="header_container">
     <div id="header">
-       Employee Management System 1.0
+       Employee Management System 2.0
     </div>
 </div>
 <div class="smart-green" >
