@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Employee Application TEST CHECKING</title>
+<title>Employee Application CHECKING</title>
 <style type="text/css">
 /* Reset body padding and margins */
 body { margin:0; padding:0; }
@@ -81,7 +81,7 @@ a:hover {color:#80A24A;}   /* mouse over link */
 <body>
 <div id="header_container">
     <div id="header">
-       Employee Management System @
+       Employee Management System 1.0
     </div>
 </div>
 <div class="smart-green" >
